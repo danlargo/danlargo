@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danlargo
-- 👀 I’m interested in internet based development and gaming
-- 🌱 I’m currently learning Javascript, React, React Native
+- 👀 Embedded internet engineer learning to code at higher levels
+- 🌱 I’m currently working in React, React.Native and NodeJs
 - 📫 How to reach me https://twiter.com/danlargo
 
 <!---
