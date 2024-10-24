@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @danlargo
-- 👀 Embedded internet protocol engineer
-- Experienced in C/C++/C#/Java/JS/Python
-- 🌱 I’m currently working in React, React.Native and NodeJs (and also Qt)
+- 👀 Embedded internet software engineer
+- Experienced in C/C++/C#/Java/JS/Python/React/ReactNative/NodeJS/Qt
+- 🌱 I’m currently working in Linux / Embedded Linux in C++ / Python
+- 🍓🥧 Spending lots of time on the Raspberry Pi5 and CM4 platforms
 - 📫 How to reach me https://twiter.com/danlargo
 
 <!---
